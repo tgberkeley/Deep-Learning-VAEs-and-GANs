@@ -1,6 +1,6 @@
 # Deep_Learning_Generative_Models_VAEs_and_GANs 
 
-Imperial College Deep Learning Coursework 2 2020-2021
+## Deep Learning Coursework 2 Imperial College London 2020/2021
 
 The VAEs_and_GANs.ipynb file is divided in two parts (reproduced in vaes_and_gans.py as GitHub cannot open very large ipynb file).
 
