@@ -32,4 +32,4 @@ Generator and discriminator's loss curves
 
 Mode collapse
 
-This repository also contains the final trained models for the VAE, the GAN generator, and the GAN discriminator
+_This repository also contains the final trained models for the VAE, the GAN generator, and the GAN discriminator_
