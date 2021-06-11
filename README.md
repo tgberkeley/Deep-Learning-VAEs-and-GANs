@@ -21,10 +21,15 @@ Interpolation in the latent space is shown
 * The second part consists of a Deep Convolutional GAN implementation in the CIFAR-10 dataset. Some important features of the implementation are:
 
 Batch normalisation
+
 ReLU activation in the generator, and Leaky ReLU activation in the discriminator
+
 Data augmentation - RandomCrop and RandomHorizontalFlip
+
 The following topics are discussed in the second part:
 
 Generator and discriminator's loss curves
+
 Mode collapse
+
 This repository also contains the final trained models for the VAE, the GAN generator, and the GAN discriminator
