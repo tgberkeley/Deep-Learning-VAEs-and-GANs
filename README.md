@@ -26,7 +26,7 @@ ReLU activation in the generator, and Leaky ReLU activation in the discriminator
 
 Data augmentation - RandomCrop and RandomHorizontalFlip
 
-The following topics are discussed in the second part:
+ * The following topics are discussed in the second part:
 
 Generator and discriminator's loss curves
 
